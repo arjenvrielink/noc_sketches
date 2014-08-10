@@ -1,0 +1,18 @@
+### /home/arjen/.gitignore-boilerplates/Global/vim.gitignore
+
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+
+### /home/arjen/.gitignore-boilerplates/Global/Linux.gitignore
+
+*~
+
+# KDE directory preferences
+.directory
+
+
