@@ -1,11 +1,11 @@
 function setup() {
   createCanvas(512,  512);
   t = 0;
-  perlinPixels();
+  //perlinPixels();
 }
 
 function draw() {
-  //perlinEllipse();
+  perlinEllipse();
 }
 
 /**
